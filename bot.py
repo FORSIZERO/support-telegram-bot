@@ -12,7 +12,7 @@ from aiogram.utils.exceptions import Throttled
 
 storage = MemoryStorage()
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token=API_TOKEN, proxy=proxy_url)
+bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot, storage=storage)
 connection = sqlite3.connect('data.db') # подключение к бд
 q = connection.cursor()
