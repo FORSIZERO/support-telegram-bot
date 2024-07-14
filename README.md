@@ -1,9 +1,6 @@
-# support-bot-telegramV2
+# support-bot-telegram
 Привет! 2 версия моего бота уже тут как тут!
 
 Все важные значение, которые нужно поменять, есть в коде.
 
 Сделано мною =3
-
-
-Ссылка на BlastHack - https://www.blast.hk
