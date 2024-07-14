@@ -1,2 +1,2 @@
-API_TOKEN = '6269916003:AAHes8csqaDA_PzZ56TcyeoK5CKSvaQtvOg'
-admin = 5974701440
+API_TOKEN = '' #Botfather
+admin = [] #getmyid
